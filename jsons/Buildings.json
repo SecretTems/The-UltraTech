@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "Other Worlds Babel",
+		"replaces": "The Oracle",
 		"uniqueTo": "Aliens",
 		"cost": 480,
 		"happiness": 12,

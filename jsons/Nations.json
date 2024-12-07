@@ -20,7 +20,7 @@
 		"neutralYes": ["We .","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak or else.","What do you say?"],
+		"hateLetsHearIt": ["Speak or else.","What do you have to say?"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
@@ -29,9 +29,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [60, 100, 100],
-		"uniqueName": "Otherworldly Knowledge",
+		"uniqueName": "Knowledge Exchange",
 			"uniques":["[+10 Science] from each Trade Route", "[+20]% [Gold] from Trade Routes"],
-		"cities": ["The Epicenter","Oblient"]
+		"cities": ["The Epicenter","Oblient","Oran","Pallia"]
 		        "spyNames": ["a","a"]
 	}
 ]

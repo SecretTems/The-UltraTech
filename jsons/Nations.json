@@ -4,35 +4,34 @@
 		"leaderName": "a",
 		"adjective": ["Shapeless"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Where are we? What is this place?",
+		"startIntroPart2": "A collection of strange people from another world obsessed with knowledge. you now lead them in this strange world",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We are here to take your knowledge",
+		"attacked": ["So be it", "Very well, we wanted to know more anyways"],
+		"defeated": "It seems we were never welcomed into this world.",
+		"introduction": "You seem very interesting. We hope to share knowledge with each other",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["We refuse that proposition.","No thank you.","We simply refuse."],
+		"neutralYes": ["We .","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateLetsHearIt": ["Speak or else.","What do you say?"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well, we gained enough knowledge anyways.",
+		"tradeRequest": "We hope this is a worthwhile trade.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"innerColor": [60, 100, 100],
+		"uniqueName": "Otherworldly Knowledge",
+			"uniques":["[+10 Science] from each Trade Route", "[+20]% [Gold] from Trade Routes"],
+		"cities": ["The Epicenter","Oblient"]
+		        "spyNames": ["a","a"]
 	}
 ]
